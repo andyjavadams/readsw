@@ -369,7 +369,7 @@ ${cpus
                 break;
 
             case "sc":
-                await m.reply("BELUM DI UP KE GITHUB, KALO MAU CHAT OWNER");
+                await m.reply("https://github.com/andyjavadams/readsw");
                 break;
 
             default:
