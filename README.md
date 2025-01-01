@@ -9,3 +9,8 @@ $ cd readsw
 $ npm i 
 $ npm start
 ```
+
+### EDIT EDIT
+
+Bisa di .env ya beb
+Menengah? pelajari aja sendiri
