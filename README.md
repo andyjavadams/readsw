@@ -12,5 +12,4 @@ $ npm start
 
 ### EDIT EDIT
 
-Bisa di .env ya beb
-Menengah? pelajari aja sendiri
+Bisa di .env ya beb. Kalo lebih lanjut pelajari aja sendiri
