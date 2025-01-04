@@ -34,7 +34,7 @@ export default async function message(andy, store, m) {
             case "menu":
                 {
                     let menu = {
-                        main: ["menu", "info", "delete", "quoted", "listsw", "getsw", "sc", "rvo", "exif", "tourl", "curi", "upsw", "restart", "eval", "exec", "link"]
+                        main: ["menu", "info", "delete", "quoted", "listsw", "getsw", "sc", "rvo", "exif", "tourl", "sticker", "curi", "upsw", "restart", "eval", "exec", "link"]
                     };
 
                     let text = `• Simple bot by @andy.jees\n• Pengembang @${m.sender.split`@`[0]}\n• Fitur: ${Object.values(menu)
@@ -270,6 +270,9 @@ ${cpus
                 }
                 break;
 
+            case "s":
+            case "stiker":
+            case "sticker":
             case "curi":
             case "colong":
             case "wmandy":
